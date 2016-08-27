@@ -1,0 +1,24 @@
+/*css/float.css*/
+
+*{
+    margin: 0px;
+}
+
+div {
+    margin: 50px;
+    padding: 10px;
+    border: dodgerblue solid 1px;
+    background-color: burlywood ;
+}
+
+#div1 {
+    background-color: blue;
+    float: left;
+    border: dashed #0f0 1px;
+}
+
+#div2 {
+    background-color: transparent;
+    float: left;
+    border: dashed 1px #f00;
+}
